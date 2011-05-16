@@ -3,7 +3,7 @@ Contributors: karevn
 Tags: login, form, user, template, custom
 Requires at least: 3.0
 Tested up to: 3.1.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 Makes WordPress login, registration and password retrieval pages totally themeable using WP theme mechanism.
 
