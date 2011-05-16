@@ -44,6 +44,9 @@ function lc_template_include($template){
 	$template_file_path = trailingslashit(TEMPLATEPATH).$action.'.php';
 	if (file_exists($template_file_path)){
 		do_action("lc_pre_$action");
+		$func_name = 'lc_pre_' . $action;
+    if (function_exists($func_name))
+      $func_name();
 		return $template_file_path;
 	}
 	wp_redirect(site_url("wp-login.php?action=$action"));
