@@ -38,6 +38,9 @@ JetDog.biz ([http://jetdog.biz/projects/wp-custom-login](http://jetdog.biz/proje
 
 == Changelog ==
 
+= 1.0.2 =
+* Fix: Login did not work
+
 = 1.0.1 =
 * Example themed page implementations added
 = 1.0 =
