@@ -10,7 +10,7 @@
 	<label class="block">Password</label>
 	<input type="password" name="pwd" value="" class="text" >
 	<div class="clearfix">
-		<div class="float-right"><a href="<?php lc_retrievepassword_url() ?>">Forgot password?</a></div>
+		<div class="float-right"><a href="<?php ls_lost_password_url() ?>">Forgot password?</a></div>
 		<?php lc_rememberme_checkbox() ?>
 	</div>
 	<br>

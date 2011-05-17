@@ -1,7 +1,7 @@
 <?php get_header() ?>
 <h2>Lost Password</h2>
 <?php lc_formatted_errors() ?>
-<form name="lostpasswordform" id="lostpasswordform" action="<?php lc_retrievepassword_url() ?>" method="post">
+<form name="lostpasswordform" id="lostpasswordform" action="<?php lc_lost_password_url() ?>" method="post">
 	<p>
 		<label class="block"><?php _e('Username or E-mail:') ?>
 			<br>

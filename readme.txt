@@ -3,7 +3,7 @@ Contributors: karevn
 Tags: login, form, user, template, custom
 Requires at least: 3.0
 Tested up to: 3.1.2
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 
 Makes WordPress login, registration and password retrieval pages totally themeable using WP theme mechanism.
 
@@ -37,6 +37,9 @@ JetDog.biz ([http://jetdog.biz/projects/wp-custom-login](http://jetdog.biz/proje
 == Screenshots ==
 
 == Changelog ==
+
+= 1.0.3 =
+* Fix: wrong function names in examples
 
 = 1.0.2 =
 * Fix: Login did not work
