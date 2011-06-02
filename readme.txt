@@ -2,7 +2,7 @@
 Contributors: karevn
 Tags: login, form, user, template, custom
 Requires at least: 3.0
-Tested up to: 3.1.2
+Tested up to: 3.1.3
 Stable tag: 1.0.3
 
 Makes WordPress login, registration and password retrieval pages totally themeable using WP theme mechanism.
@@ -11,16 +11,16 @@ Makes WordPress login, registration and password retrieval pages totally themeab
 
 Themed login makes it possible to change the look of default Wordpress login system using 
 templates located at theme folder:
-- Login - login.php
-- Lost password form - retrievepassword.php
-- Registration - register.php
-- Registration confirmation - registered.php
+* Login - login.php
+* Lost password form - retrievepassword.php
+* Registration - register.php
+* Registration confirmation - registered.php
 If your theme does not contain one of the files described above - that is not a big deal, 
 WordPress's defaults will be used.
 
 = Plugin's Official Site =
 
-JetDog.biz ([http://jetdog.biz/projects/wp-custom-login](http://jetdog.biz/projects/wp-custom-login/))
+[http://karevn.com]
 
 
 == Installation ==
