@@ -16,6 +16,7 @@ templates located at your theme folder, not just CSS-level customizations:
 *    Lost password form - retrievepassword.php
 *    Registration - register.php
 *   Registration confirmation - registered.php
+
 If your theme does not contain one of the files described above - that is not a big deal, 
 WordPress's defaults will be used. See usage examples in "examples" plugin directory.
 
